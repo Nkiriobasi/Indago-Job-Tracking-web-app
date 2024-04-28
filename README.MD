@@ -73,17 +73,6 @@ You can access the live version of the Indago web app by following this link [In
 
 - The backend of the app is deployed on Railway, a platform for easily deploying and scaling Node.js applications.
 
-
-## Roadmap
-
-- Working on Landing page ⏳
-
-- Email confirmation ⏳
-
-- Reset/Forgot password ⏳
-
-- Light/Dark mode ⏳
-
 ## License
 Indago is licensed under the MIT License. See the LICENSE file for more information.
 [MIT](LICENSE)
@@ -95,7 +84,7 @@ Please let us know your thoughts on my app by sending any suggestions or feedbac
 
 
 ## 🚀 About Me
-- Full-stack developer with experience in modern web development
+- Frontend-developer developer with experience in modern web development
 - Proficient in React and JavaScript for frontend development
 - Skilled in Redux Toolkit for state management in frontend applications
 - Experienced in Node.js and Express.js for backend development
@@ -106,8 +95,7 @@ Please let us know your thoughts on my app by sending any suggestions or feedbac
 
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://themodernmonk7.vercel.app)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/themodernmonk7)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/themodernmonk7)
-[![Peerlist](https://github-readme-badge.peerlist.io/api/themodernmonk7?style=social)](https://peerlist.io/themodernmonk7)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nkiriobasi.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nkiri-obasi/)
+<!-- [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/themodernmonk7) -->
 
