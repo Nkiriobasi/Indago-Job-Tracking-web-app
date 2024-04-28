@@ -80,7 +80,7 @@ Indago is licensed under the MIT License. See the LICENSE file for more informat
 
 ## Feedback
 
-Please let us know your thoughts on my app by sending any suggestions or feedback to kumaravishek2015@gmail.com.
+Please let us know your thoughts on my app by sending any suggestions or feedback to obasinkiri@gmail.com.
 
 
 ## 🚀 About Me
